@@ -1,0 +1,15 @@
+instructions for using the django app
+
+So at some point someday I want this to be an actual chat app 
+
+1. go to http://127.0.0.1:8000/admin/login/?next=/admin/ in one browser (I used Chrome)
+
+2. go to http://127.0.0.1:8000/admin/login/?next=/admin/ in another browser (due to cache you cannot use the same browser you used in step 1)
+
+**** the users are oneeyedonehorned32 and purpleeaters27
+
+Password for both is: Santaiskool67!
+
+when you have both browsers pulled up you should be able to see at the top your user and be able to send messages back and forth, I looked up a few different things and really mixed them together. I am sorry this is super late I have been working on this for a while and I finally got a chat that I wanted and it actually worked.
+
+make sure you click the green "message" button otherwise the app will start over.
